@@ -1,2 +1,0 @@
-In order to compile it is needed SDL2 and SDL_ttf
-Get a copy of the required libraries and matrix-norfok.ttf and put them near the executable produced.
